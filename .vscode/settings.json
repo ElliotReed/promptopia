@@ -1,0 +1,15 @@
+{
+  "css.customData": [
+    "./.vscode/css-data.json"
+  ],
+  "workbench.colorCustomizations": {
+    "activityBarBadge.background": "#FF5722",
+    "activityBarBadge.foreground": "#000000",
+    "titleBar.activeBackground": "#FF5722",
+    "titleBar.activeForeground": "#000000",
+    "titleBar.inactiveBackground": "#333333",
+    "titleBar.inactiveForeground": "#e9edf0",
+    "statusBarItem.remoteBackground": "#FF5722",
+    "statusBarItem.remoteForeground": "#000000"
+  }
+}
